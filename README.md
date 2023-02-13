@@ -1,2 +1,0 @@
-# Nguy-nThanhT-ng
-robot
